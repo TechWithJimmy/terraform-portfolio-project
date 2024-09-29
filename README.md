@@ -4,16 +4,13 @@ This project showcases the deployment of a Next.js application utilizing AWS ser
 
 # Table of Contents
 
-Architecture
-Technologies Used
-Setup and Deployment
-Prerequisites
-Installation
-Deploying the Infrastructure
-Usage
-Contributing
-License
-Architecture
+1. Architecture
+2. Technologies Used
+3. Setup and Deployment
+4. Prerequisites
+5. Installation
+6. Deploying the Infrastructure
+
 
 # The infrastructure for this project is built using the following AWS services:
 
